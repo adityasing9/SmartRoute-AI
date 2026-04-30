@@ -1,4 +1,4 @@
-                                                  # SmartRoute AI 🌍
+# SmartRoute AI 🌍
 
 An interactive, production-ready full-stack web application designed to solve, visualize, and learn about the Traveling Salesman Problem (TSP).
 
